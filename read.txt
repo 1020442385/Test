@@ -1,4 +1,4 @@
-ÎÒµçÄÔ×°ÁËGitºÃ¿¨°¡£¡
+为什么我的电脑安装了Git这么卡？
 first commit
 two commit
 hello
