@@ -1,2 +1,3 @@
 我电脑装了Git好卡啊！
 first commit
+two commit
